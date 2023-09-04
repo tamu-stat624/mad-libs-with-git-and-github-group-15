@@ -9,11 +9,11 @@
 9. fountain
 10. billiard room
 11. coffee
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
+12. soft
+13. gelfoam
+14. sleeping
+15. nicely
+16. three
 17. Unit of Time - hours
 18. Different Activity - to fly
 19. Adjective - fast

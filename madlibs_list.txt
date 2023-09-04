@@ -14,8 +14,8 @@
 14. sleeping
 15. nicely
 16. three
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+17. Unit of Time - hours
+18. Different Activity - to fly
+19. Adjective - fast
+20. Vehicle - Helicopter
+21. Your Name - Ariana

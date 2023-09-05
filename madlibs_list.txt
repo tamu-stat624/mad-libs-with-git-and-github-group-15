@@ -14,8 +14,8 @@
 14. sleeping
 15. nicely
 16. three
-17. Unit of Time - hours
-18. Different Activity - to fly
-19. Adjective - fast
-20. Vehicle - Helicopter
-21. Your Name - Ariana
+17. Hours
+18. To fly
+19. Fast
+20. Helicopter
+21. Ariana
